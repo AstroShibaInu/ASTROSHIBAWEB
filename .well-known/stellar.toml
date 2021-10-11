@@ -1,4 +1,4 @@
-VERSION="2.0.0"
+VERSION="2.2.0"
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
@@ -6,11 +6,8 @@ ACCOUNTS=["GCYV5ZMRG32T6FCY4S3K636XFQSGKLKREWONR7UUGOBTJZG72BPXSEF5","GD53LHKFAK
 
 [DOCUMENTATION]
 ORG_NAME="Astro Shiba Inu"
-ORG_URL="astro-shiba.com"
+ORG_URL="www.astro-shiba.com"
 ORG_TWITTER="astroshibainu"
-
-
-
 
 [[CURRENCIES]]
 code="ASHIB"
