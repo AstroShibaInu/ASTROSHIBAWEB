@@ -1,0 +1,23 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=["GCYV5ZMRG32T6FCY4S3K636XFQSGKLKREWONR7UUGOBTJZG72BPXSEF5"]
+
+[DOCUMENTATION]
+ORG_NAME="Astro Shiba Inu"
+ORG_URL="astro-shiba.com"
+ORG_TWITTER="astroshibainu"
+
+
+
+
+[[CURRENCIES]]
+code="ASHIB"
+issuer="GD53LHKFAKRWD5JKJJLPSYU6ARIHQYEOSH4UHHGONGDIBIY6QEFJTZWO"
+display_decimals=7
+name="ASHIB"
+desc="Astro Shiba token on Stellar Network"
+image="https://astro-shiba.com/astroshibalogo.ico"
+fixed_number=10000000000
+status="live"
